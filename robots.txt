@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://docto-three.vercel.app/sitemap.xml
